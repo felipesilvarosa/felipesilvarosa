@@ -1,6 +1,6 @@
 ### Hello! I'm Felipe Rosa. 
 
-- 🌱 I’m currently learning javascript/html/css
+- 🌱 I’m currently learning java/javascript/html/css
 - 😄 Pronouns: he/him/his 
 
 ## 
