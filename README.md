@@ -1,7 +1,10 @@
 ### Hello! I'm Felipe Rosa. 
 
-- 🌱 I’m currently learning java/javascript/html/css
-- 😄 Pronouns: he/him/his 
+Como fã de tecnologia e aprendizagem contínua, sou um desenvolvedor altamente motivado e dedicado. Com experiência em inúmeras áreas profissionais, incluindo a alta gastronomia, adquiri habilidades valiosas de trabalho sob pressão, trabalho em equipe e resolução de problemas.
+
+Com uma paixão por psicologia humana e curiosidade insaciável, sempre procuro novos desafios e oportunidades de aprendizagem. Adoro compartilhar conhecimento e ensinar, acreditando que é a melhor forma de evolução pessoal.
+
+Experiente em tecnologias como Node.js, TypeScript, Java, Spring, Angular, Angular Material, Git, HTML, SCSS, PostgreSQL, MongoDB, Azure, também possuo conhecimento em JavaScript, Bootstrap, MySQL, Docker, AWS, React. Sempre pronto para explorar novas stacks e ampliar meus horizontes.
 
 ## 
 
